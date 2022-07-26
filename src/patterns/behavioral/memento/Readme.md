@@ -22,4 +22,4 @@ It can store and retrieve stored Mementos.
 
 In the example History is Caretaker. 
 
-![Momento pattern diagram](../../assets/memento.png)
+![Momento pattern diagram](../../../assets/memento.png)
