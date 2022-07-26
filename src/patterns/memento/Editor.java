@@ -1,4 +1,4 @@
-package patterns.momento;
+package patterns.memento;
 
 public class Editor {
     private String content;

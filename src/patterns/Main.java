@@ -1,7 +1,7 @@
 package patterns;
 
-import patterns.momento.Editor;
-import patterns.momento.History;
+import patterns.memento.Editor;
+import patterns.memento.History;
 
 public class Main {
     public static void main(String[] args) {
