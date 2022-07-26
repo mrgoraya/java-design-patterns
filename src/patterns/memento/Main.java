@@ -1,7 +1,4 @@
-package patterns;
-
-import patterns.memento.Editor;
-import patterns.memento.History;
+package patterns.memento;
 
 public class Main {
     public static void main(String[] args) {
