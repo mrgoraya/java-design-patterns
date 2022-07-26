@@ -1,4 +1,4 @@
-package patterns.memento;
+package patterns.behavioral.memento;
 
 import java.util.ArrayList;
 import java.util.List;

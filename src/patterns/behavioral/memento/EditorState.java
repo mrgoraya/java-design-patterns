@@ -1,4 +1,4 @@
-package patterns.memento;
+package patterns.behavioral.memento;
 
 public class EditorState {
     private final String content;
